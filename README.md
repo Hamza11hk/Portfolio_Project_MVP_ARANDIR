@@ -15,8 +15,8 @@ Welcome to [ARANDIR], a [TOP Down 2D pixel Game]. This project is developed usin
 ## Installation
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/your-game-repo.git
-   cd your-game-repo
+   git clone https://github.com/Hamza11hk/Portfolio_Project_MVP_ARANDIR.git
+   cd Portfolio_Project_MVP_ARANDIR
 2.pip install pygame
 Controls
 ---
