@@ -7,6 +7,8 @@ Welcome to [ARANDIR], a [TOP Down 2D pixel Game]. This project is developed usin
 - **Player and Enemy Classes:** Implemented player and enemy classes with various functionalities.
 - **Particle Effects:** Triggered particle effects upon enemy death for a visually appealing effect.
 - **Experience System:** Implemented an experience system where the player gains experience upon defeating enemies.
+- **Melee Attacks:** Kill enemies with bunch of different weapons.
+- **Magic Attack:** Kill enemies with bunch of different spells.
   
 ## New Features to be added soon
 - **Add a Death animation
