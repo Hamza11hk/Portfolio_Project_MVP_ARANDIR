@@ -18,8 +18,7 @@ Welcome to [ARANDIR], a [TOP Down 2D pixel Game]. This project is developed usin
    git clone https://github.com/your-username/your-game-repo.git
    cd your-game-repo
 2.pip install pygame
----
-#Controls
+Controls
 ---
 Movement:
 -Up: Arrow Up
@@ -28,16 +27,16 @@ Movement:
 -Right: Arrow Right
 
 Actions:
-Attack: Spacebar
-Switch Weapon: Q
-Switch Magic: E
----
-##Usage
+-Attack: Spacebar
+-Switch Weapon: Q
+-Switch Magic: E
+
+Usage
 ---
 1. python main.py
 2. Use the keyboard controls to navigate and interact with the game.
----
-##Contributing
+
+Contributing
 ---
 If you'd like to contribute to the project, please follow these steps:
 
@@ -45,12 +44,14 @@ If you'd like to contribute to the project, please follow these steps:
 - Create a new branch for your feature.
 - Commit your changes and push to your branch.
 - Submit a pull request.
+
+Credits
 ---
-##Credits
 - Game developed by [Hamza Kouza - [Github](https://github.com/Hamza11hk) / [Twitter](https://twitter.com/ZakhamofAstora)]
 - Pygame: Pygame Library
 - World Pixel Art: https://rafaelmatos.itch.io/epic-rpg-world-pack-free-demo-ancient-ruins-asset-tileset
 - Main Player Pixel Art and Animation: L7bibmg - [Twitter](https://twitter.com/bib_l7) and Asaka Isoshi - [Twitter](https://twitter.com/AIsoshi)
+
+License
 ---
-##License
 Public Domain. No copy write protection. 
