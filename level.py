@@ -82,9 +82,9 @@ class Level:
 									self.create_magic)
 							else:
 								if col == '390': monster_name = 'bamboo'
-								elif col == '391': monster_name = 'spirit'
-								elif col == '392': monster_name ='raccoon'
-								else: monster_name = 'squid'
+								elif col == '391': monster_name = 'red eye'
+								elif col == '392': monster_name ='skeleton king'
+								else: monster_name = 'skeleton'
 								Enemy(
 									monster_name,
 									(x,y),

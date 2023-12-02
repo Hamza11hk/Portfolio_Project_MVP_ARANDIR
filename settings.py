@@ -56,7 +56,7 @@ magic_data = {
 
 # enemy
 monster_data = {
-	'squid': {'health': 100,'exp':100,'damage':20,'attack_type': 'slash', 'attack_sound':'audio/attack/slash.wav', 'speed': 2, 'resistance': 3, 'attack_radius': 80, 'notice_radius': 360},
-	'raccoon': {'health': 300,'exp':250,'damage':80,'attack_type': 'claw',  'attack_sound':'audio/attack/claw.wav','speed': 2, 'resistance': 3, 'attack_radius': 120, 'notice_radius': 400},
-	'spirit': {'health': 50,'exp':20,'damage':5,'attack_type': 'thunder', 'attack_sound':'audio/attack/thunder.mp3', 'speed': 2, 'resistance': 3, 'attack_radius': 60, 'notice_radius': 350},
-	'bamboo': {'health': 200,'exp':150,'damage':30,'attack_type': 'leaf_attack', 'attack_sound':'audio/attack/slash.wav', 'speed': 1, 'resistance': 3, 'attack_radius': 50, 'notice_radius': 300}}
+	'skeleton': {'health': 60,'exp':10,'damage':5,'attack_type': 'slash', 'attack_sound':'audio/attack/slash.wav', 'speed': 2, 'resistance': 3, 'attack_radius': 80, 'notice_radius': 360},
+	'skeleton king': {'health': 600,'exp':450,'damage':200,'attack_type': 'claw',  'attack_sound':'audio/attack/claw.wav','speed': 2, 'resistance': 3, 'attack_radius': 120, 'notice_radius': 400},
+	'red eye': {'health': 400,'exp':200,'damage':100,'attack_type': 'thunder', 'attack_sound':'audio/attack/thunder.mp3', 'speed': 2, 'resistance': 3, 'attack_radius': 60, 'notice_radius': 350},
+	'bamboo': {'health': 400,'exp':150,'damage':80,'attack_type': 'leaf_attack', 'attack_sound':'audio/attack/slash.wav', 'speed': 1, 'resistance': 3, 'attack_radius': 50, 'notice_radius': 300}}

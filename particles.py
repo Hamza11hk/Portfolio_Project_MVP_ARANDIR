@@ -18,9 +18,9 @@ class AnimationPlayer:
             'thunder': import_folder('graphics/particles/thunder'),
 
             # monster deaths
-            'squid': import_folder('graphics/particles/smoke_orange'),
-            'raccoon': import_folder('graphics/particles/raccoon'),
-            'spirit': import_folder('graphics/particles/nova'),
+            'skeleton': import_folder('graphics/particles/smoke_orange'),
+            'skeleton king': import_folder('graphics/particles/raccoon'),
+            'red eye': import_folder('graphics/particles/nova'),
             'bamboo': import_folder('graphics/particles/bamboo'),
             
             # leafs 
